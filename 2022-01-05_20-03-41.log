@@ -1,0 +1,48 @@
++---------------------------------------------------------+
+|   _       _ __  __ _                   _  _  _    ___   |
+|  | | ___ | |  \/  (_)_ __   ___ _ __  / || || |  / _ \  |
+|  | |/ _ \| | |\/| | | '_ \ / _ \ '__| | || || |_| | | | |
+|  | | (_) | | |  | | | | | |  __/ |    | ||__   _| |_| | |
+|  |_|\___/|_|_|  |_|_|_| |_|\___|_|    |_(_) |_|  \___/  |
+|                                                         |
+|              This software is for mining                |
+|              Autolykos V2                               |
+|              Ethash, Etchash                            |
+|              Equihash 144/5, 192/7, 210/9               |
+|              BeamHash III                               |
+|              ZelHash     (EquihashR 125/4/0)            |
+|              SHA256 (TON)                               |
+|              Cuck(ar)oo 29                              |
+|              Cuckaroo   30 CTX                          |
+|              Cuckatoo   31/32                           |
+|                                                         |
+|                                                         |
+|             Made by Lolliedieb, January 2022            |
++---------------------------------------------------------+
+
+Setup Miner... 
+OpenCL driver detected.
+Number of OpenCL supported GPUs: 1 
+Cuda driver detected.
+Number of Cuda supported GPUs: 0 
+Device 0: 
+    Name:    Radeon RX 6800 
+    Address: 40:0 
+    Vendor:  Advanced Micro Devices (AMD), ROCm
+    Drivers: OpenCL
+    Memory:  16368 MByte (16368 MByte free) 
+    Active:  true (Selected Algorithm: TON (Sha 256)) 
+
+Connecting to pool... 
+Ton pool connection mode: ton-pool.com websocket job pushing (--ton-mode 2) 
+DNS over HTTPS resolve succeeded 
+Connected to https://next.ton-pool.com(104.21.73.80):443  (TLS enabled)
+TLS Handshake success 
+Websocket handshare done with pool https://next.ton-pool.com
+Ton job with difficulty 68.72G and giver Ef-P_TOdwcCh0AXHhBpICDMxStxHenWdLCDLNH5QcNpwMMn2 received.
+https://next.ton-pool.com: Address is valid
+https://next.ton-pool.com: Address is registered
+Start Mining... 
+GPU 0: Found a share of difficulty 4376.52G 
+GPU 0: Share accepted (62 ms) 
+Ton job with difficulty 68.72G and giver Ef_NSzfDJI1A3rOM0GQm7xsoUXHTgmdhN5-OrGD8uwL2JHBa received.
